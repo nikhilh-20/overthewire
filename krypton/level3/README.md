@@ -67,4 +67,4 @@ Making appropriate substitutions on `krypton4` text, we get:
 
 # FLAG
 
-brute
+BRUTE
