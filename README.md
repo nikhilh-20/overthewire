@@ -14,4 +14,8 @@ http://overthewire.org/wargames/leviathan/
 
 http://overthewire.org/wargames/krypton/
 
+## Narnia
+
+http://overthewire.org/wargames/narnia/
+
 (In progress)
