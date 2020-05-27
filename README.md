@@ -18,4 +18,4 @@ http://overthewire.org/wargames/krypton/
 
 http://overthewire.org/wargames/narnia/
 
-(In progress)
+(Abandoned)
